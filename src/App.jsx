@@ -1,6 +1,6 @@
 import { useState } from "react";
 import lovesvg from "./assets/melika1.png";
-import lovesvg2 from "./assets/melika2.png";
+import lovesvg2 from "./assets/melika2.jpeg";
 
 export default function Page() {
   const [noCount, setNoCount] = useState(0);
